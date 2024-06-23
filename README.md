@@ -1,2 +1,3 @@
 # apnacollege-demo
-I start github lerning on apna collage
+This is my first repo
+Author - Mit Chaudhary
